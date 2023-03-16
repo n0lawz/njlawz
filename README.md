@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Next.js based projects with TypeScript.
-- 🌱 I’m currently learning about GraphQL API's!
+- 🌱 I’m currently learning about tRPC and other full stack typesafe technologies.
 - 👯 I’m always looking to collaborate on just about anything web based!
 - 📫 How to reach me: nlaw.dev@gmail.com
 
